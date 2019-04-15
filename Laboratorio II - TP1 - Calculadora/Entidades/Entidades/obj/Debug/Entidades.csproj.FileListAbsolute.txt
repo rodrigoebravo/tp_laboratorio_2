@@ -1,0 +1,29 @@
+D:\Bravo\Bravo\Bravo\Bravo - Programacion II\Bravo - Programacion II\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\bin\Debug\Entidades.exe.config
+D:\Bravo\Bravo\Bravo\Bravo - Programacion II\Bravo - Programacion II\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\bin\Debug\Entidades.exe
+D:\Bravo\Bravo\Bravo\Bravo - Programacion II\Bravo - Programacion II\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Bravo\Bravo\Bravo\Bravo - Programacion II\Bravo - Programacion II\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Bravo\Bravo\Bravo\Bravo - Programacion II\Bravo - Programacion II\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.MiCalculadora.resources
+D:\Bravo\Bravo\Bravo\Bravo - Programacion II\Bravo - Programacion II\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+D:\Bravo\Bravo\Bravo\Bravo - Programacion II\Bravo - Programacion II\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.csproj.GenerateResource.cache
+D:\Bravo\Bravo\Bravo\Bravo - Programacion II\Bravo - Programacion II\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Bravo\Bravo\Bravo\Bravo - Programacion II\Bravo - Programacion II\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.exe
+D:\Bravo\Bravo\Bravo\Bravo - Programacion II\Bravo - Programacion II\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\Users\rbravo\Escritorio\ProII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\bin\Debug\Entidades.exe.config
+D:\Users\rbravo\Escritorio\ProII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.exe
+D:\Users\rbravo\Escritorio\ProII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\Users\rbravo\Escritorio\ProII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\bin\Debug\Entidades.exe
+D:\Users\rbravo\Escritorio\ProII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Users\rbravo\Escritorio\ProII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Users\rbravo\Escritorio\ProII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.FormCalculadora.resources
+D:\Users\rbravo\Escritorio\ProII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+D:\Users\rbravo\Escritorio\ProII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\PruebaII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\usuario\Desktop\PruebaII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\bin\Debug\Entidades.exe
+C:\Users\usuario\Desktop\PruebaII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\PruebaII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PruebaII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.FormCalculadora.resources
+C:\Users\usuario\Desktop\PruebaII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\Users\usuario\Desktop\PruebaII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\PruebaII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PruebaII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.exe
+C:\Users\usuario\Desktop\PruebaII\Laboratorio II - TP1 - Calculadora\Entidades\Entidades\obj\Debug\Entidades.pdb
