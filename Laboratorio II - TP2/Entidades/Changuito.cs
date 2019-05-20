@@ -61,14 +61,24 @@ namespace Entidades
             sb.AppendLine();
             foreach (Producto v in c.productos)
             {
-                if (tipo == ETipo.Todos)
+                switch (tipo)
                 {
-                    sb.AppendLine(v.Mostrar());
-                    continue;
+                    case ETipo.Snacks:
+                        if (v is Snacks)
+                            sb.AppendLine(v.Mostrar());
+                        break;
+                    case ETipo.Dulce:
+                        if (v is Dulce)
+                            sb.AppendLine(v.Mostrar());
+                        break;
+                    case ETipo.Leche:
+                        if (v is Leche)
+                            sb.AppendLine(v.Mostrar());
+                        break;
+                    default:
+                        sb.AppendLine(v.Mostrar());
+                        break;
                 }
-                if ((v is Leche && tipo == ETipo.Leche) || (v is Snacks && tipo == ETipo.Snacks) || (v is Dulce && tipo == ETipo.Dulce))
-                    sb.AppendLine(v.Mostrar());
-
             }
 
             return sb.ToString();

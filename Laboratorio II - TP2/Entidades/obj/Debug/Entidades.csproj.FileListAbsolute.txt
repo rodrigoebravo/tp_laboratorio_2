@@ -23,3 +23,9 @@ C:\Users\usuario\Desktop\PRUEBAII_NEW\Bravo teoria\TP2\TP-02-Cascara\TP-02\Entid
 C:\Users\usuario\Desktop\PRUEBAII_NEW\Bravo teoria\TP2\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Desktop\PRUEBAII_NEW\Bravo teoria\TP2\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\usuario\Desktop\PRUEBAII_NEW\Bravo teoria\TP2\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\tp_laboratorio_2\Laboratorio II - TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\usuario\Desktop\tp_laboratorio_2\Laboratorio II - TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\tp_laboratorio_2\Laboratorio II - TP2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\tp_laboratorio_2\Laboratorio II - TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\tp_laboratorio_2\Laboratorio II - TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\usuario\Desktop\tp_laboratorio_2\Laboratorio II - TP2\Entidades\obj\Debug\Entidades.pdb
