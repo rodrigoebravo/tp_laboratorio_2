@@ -1,0 +1,24 @@
+D:\Bravo\Bravo.Rodrigo.2C.TP3\Archivos\bin\Debug\Archivos.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\Bravo\Bravo.Rodrigo.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\Bravo\Bravo.Rodrigo.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\Bravo\Bravo.Rodrigo.2C.TP3\Archivos\obj\Debug\Archivos.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\obj\Debug\Archivos.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\Bravo\Bravo.Rodrigo.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+D:\Bravo\Bravo.Rodrigo.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\bin\Debug\Archivos.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\Archivos\bin\Debug\Excepciones.pdb

@@ -1,0 +1,62 @@
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\UnitPrueba1.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\UnitPrueba1.pdb
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\ClasesInstanciables.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\EntidadesAbstractas.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Excepciones.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\ClasesInstanciables.pdb
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\EntidadesAbstractas.pdb
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Excepciones.pdb
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\obj\Debug\UnitPrueba1.csprojAssemblyReference.cache
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\obj\Debug\UnitPrueba1.csproj.CoreCompileInputs.cache
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\obj\Debug\UnitPrueba1.csproj.CopyComplete
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\obj\Debug\UnitPrueba1.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\obj\Debug\UnitPrueba1.pdb
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\UnitPrueba1.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\UnitPrueba1.pdb
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\ClasesInstanciables.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\EntidadesAbstractas.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Excepciones.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\ClasesInstanciables.pdb
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Excepciones.pdb
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\obj\Debug\UnitPrueba1.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\obj\Debug\UnitPrueba1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\obj\Debug\UnitPrueba1.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\obj\Debug\UnitPrueba1.pdb
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\UnitPrueba1.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\UnitPrueba1.pdb
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\ClasesInstanciables.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\EntidadesAbstractas.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Excepciones.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\ClasesInstanciables.pdb
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\EntidadesAbstractas.pdb
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Excepciones.pdb
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\obj\Debug\UnitPrueba1.csprojResolveAssemblyReference.cache
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\obj\Debug\UnitPrueba1.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\UnitPrueba1\obj\Debug\UnitPrueba1.pdb
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Archivos.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\UnitPrueba1\bin\Debug\Archivos.pdb

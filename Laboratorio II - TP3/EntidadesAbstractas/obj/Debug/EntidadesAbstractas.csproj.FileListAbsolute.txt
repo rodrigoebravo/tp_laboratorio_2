@@ -1,0 +1,24 @@
+D:\Bravo\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+D:\Bravo\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+D:\Bravo\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+D:\Bravo\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+D:\Bravo\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+D:\Bravo\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+D:\Bravo\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+D:\Users\rbravo\Escritorio\A recuperar\ProII\PruebaII\Bravo.Rodrigo.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
