@@ -25,10 +25,20 @@ namespace ClasesInstanciables
         {
             this.alumnos = new List<Alumno>();
         }
+
+        /// <summary>
+        /// Retornará los datos de la Jornada como texto
+        /// </summary>
+        /// <returns></returns>
         public string Leer()
         {
             return this.ToString();
         }
+        /// <summary>
+        /// Guarda los datos de la jornada en el directorio donde se esta ejecutando la aplicacion
+        /// </summary>
+        /// <param name="jornada"></param>
+        /// <returns></returns>
         public static bool Guardar(Jornada jornada)
         {
             try
@@ -48,10 +58,22 @@ namespace ClasesInstanciables
             }
             return true;
         }
+        /// <summary>
+        /// Operador que checkea que el alumno no se encuentre en la jornada
+        /// </summary>
+        /// <param name="j"></param>
+        /// <param name="a"></param>
+        /// <returns></returns>
         public static bool operator !=(Jornada j, Alumno a)
         {
             return !(j == a);
         }
+        /// <summary>
+        /// Operador que checkea que el alumno se encuentre en la jornada
+        /// </summary>
+        /// <param name="j"></param>
+        /// <param name="a"></param>
+        /// <returns></returns>
         public static bool operator ==(Jornada j, Alumno a)
         {
             foreach (var al in j.alumnos)
@@ -61,12 +83,23 @@ namespace ClasesInstanciables
             }
             return false;
         }
+        /// <summary>
+        /// Operador que agrega el alumno de no existir en la jornada
+        /// </summary>
+        /// <param name="j"></param>
+        /// <param name="a"></param>
+        /// <returns></returns>
         public static Jornada operator +(Jornada j, Alumno a)
         {
             if (j != a)
                 j.Alumnos.Add(a);
             return j;
         }
+
+        /// <summary>
+        /// Devuelve los datos de la jornada
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();

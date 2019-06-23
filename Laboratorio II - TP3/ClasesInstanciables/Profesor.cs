@@ -38,11 +38,17 @@ namespace ClasesInstanciables
             //    this.clasesDelDia.Enqueue(Universidad.EClases.Legislacion);
             //}
         }
-
+        /// <summary>
+        /// Agrega a las clases del dia del profesor una clase random
+        /// </summary>
         private void _randomClases()
         {
             this.clasesDelDia.Enqueue((Universidad.EClases)random.Next(0, 4));
         }
+        /// <summary>
+        /// Muestra los datos del profesor
+        /// </summary>
+        /// <returns></returns>
         protected override string MostrarDatos()
         {
 
@@ -51,6 +57,10 @@ namespace ClasesInstanciables
             sb.Append(this.ParticiparEnClase());
             return sb.ToString();
         }
+        /// <summary>
+        /// Arma un string de la clase que pertenece esta instancia de alumno.
+        /// </summary>
+        /// <returns></returns>
         protected override string ParticiparEnClase()
         {
             StringBuilder sb = new StringBuilder();
@@ -77,10 +87,23 @@ namespace ClasesInstanciables
             }
             return sb.ToString();
         }
+        /// <summary>
+        /// Operador que checkea que el profesor no tenga asignada esa clase
+        /// </summary>
+        /// <param name="i"></param>
+        /// <param name="clase"></param>
+        /// <returns></returns>
         public static bool operator !=(Profesor i, Universidad.EClases clase)
         {
             return !(i==clase);
         }
+
+        /// <summary>
+        /// Operador que checkea que el profesor tenga asignada esa clase
+        /// </summary>
+        /// <param name="i"></param>
+        /// <param name="clase"></param>
+        /// <returns></returns>
         public static bool operator ==(Profesor i, Universidad.EClases clase)
         {
             foreach (Universidad.EClases c in i.clasesDelDia)
@@ -90,6 +113,11 @@ namespace ClasesInstanciables
             }
             return false;
         }
+
+        /// <summary>
+        /// Devuelve los datos del profesor como string
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return this.MostrarDatos();

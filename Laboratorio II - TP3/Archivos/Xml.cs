@@ -8,6 +8,12 @@ namespace Archivos
 {
     public class Xml<T> : IArchivo<T>
     {
+        /// <summary>
+        /// Guardará en la ruta indicada como "archivo" en formato XML el dato que se indique como "datos"
+        /// </summary>
+        /// <param name="archivo"></param>
+        /// <param name="datos"></param>
+        /// <returns></returns>
         public bool Guardar(string archivo, T datos)
         {
             XmlTextWriter writer = new XmlTextWriter(archivo, Encoding.Default);
@@ -27,7 +33,12 @@ namespace Archivos
             }
             return true;
         }
-
+        /// <summary>
+        /// Leerá de la ruta indicada en el parametro "archivo" y se grabaran en el out generico "datos"
+        /// </summary>
+        /// <param name="archivo"></param>
+        /// <param name="datos"></param>
+        /// <returns></returns>
         public bool Leer(string archivo, out T datos)
         {
             XmlTextReader reader = new XmlTextReader(archivo);

@@ -8,7 +8,9 @@ namespace ClasesInstanciables
         private Universidad.EClases claseQueToma;
         private Alumno.EEstadoCuenta estadoCuenta;
         public enum EEstadoCuenta { AlDia, Deudor, Becado }
-
+        /// <summary>
+        /// Constructor vacío
+        /// </summary>
         public Alumno() { }
 
         public Alumno(int id, string nombre, string apellido, int dni, ENacionalidad nacionalidad, Universidad.EClases claseQueToma) : base(id, nombre, apellido, dni, nacionalidad)
@@ -19,7 +21,10 @@ namespace ClasesInstanciables
         {
             this.estadoCuenta = estadoCuenta;
         }
-
+        /// <summary>
+        /// Muestra los datos del alumno
+        /// </summary>
+        /// <returns></returns>
         protected override string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
@@ -36,11 +41,14 @@ namespace ClasesInstanciables
                     break;
             }
             sb.Append(this.ParticiparEnClase());
-            
+
             return sb.ToString();
         }
 
-
+        /// <summary>
+        /// Arma un string de la clase que pertenece esta instancia de alumno.
+        /// </summary>
+        /// <returns></returns>
         protected override string ParticiparEnClase()
         {
             string ret = "TOMA CLASES DE";
@@ -58,14 +66,30 @@ namespace ClasesInstanciables
                     return string.Empty;
             }
         }
+        /// <summary>
+        /// Operador que checkea que el alumno no sea igual a la clase
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="clase"></param>
+        /// <returns></returns>
         public static bool operator !=(Alumno a, Universidad.EClases clase)
         {
             return a.claseQueToma != clase;
         }
+        /// <summary>
+        /// Operador que checkea que el alumno tenga la clase asignada y no sea deudor
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="clase"></param>
+        /// <returns></returns>
         public static bool operator ==(Alumno a, Universidad.EClases clase)
         {
             return (a.claseQueToma == clase && a.estadoCuenta != EEstadoCuenta.Deudor);
         }
+        /// <summary>
+        /// Sobreescribe el metodo ToString(), mostrando los datos del alumno
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return this.MostrarDatos();

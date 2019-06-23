@@ -23,12 +23,22 @@ namespace ClasesInstanciables
             this.Jornadas = new List<Jornada>();
             this.Profesores = new List<Profesor>();
         }
+
+        /// <summary>
+        /// Guarda los datos de la universidad en formato XML en el directorio donde se ejecuta esta aplicacion. Archivo: Universidad.xml
+        /// </summary>
+        /// <param name="uni"></param>
+        /// <returns></returns>
         public static bool Guardar(Universidad uni)
         {
             Xml<Universidad> xml = new Xml<Universidad>();
             string path = $@"{Directory.GetCurrentDirectory()}\Universidad.xml";
             return xml.Guardar(path, uni);
         }
+        /// <summary>
+        /// Lee el archivo Universidad.xml del directorio donde se ejecuta esta aplicacion. 
+        /// </summary>
+        /// <returns></returns>
         public Universidad Leer()
         {
             Xml<Universidad> xml = new Xml<Universidad>();
@@ -63,10 +73,22 @@ namespace ClasesInstanciables
             }
             return false;
         }
+        /// <summary>
+        /// Serán distintos una universidad y un Profesor si el profesor no existe en la lista profesores de la Universidad.
+        /// </summary>
+        /// <param name="g"></param>
+        /// <param name="p"></param>
+        /// <returns></returns>
         public static bool operator !=(Universidad g, Profesor p)
         {
             return !(g == p);
         }
+        /// <summary>
+        /// Serán iguales una universidad y un Profesor si el profesor existe en la lista profesores de la Universidad.
+        /// </summary>
+        /// <param name="g"></param>
+        /// <param name="p"></param>
+        /// <returns></returns>
         public static bool operator ==(Universidad g, Profesor p)
         {
             foreach (Profesor prof in g.Profesores)
@@ -76,6 +98,12 @@ namespace ClasesInstanciables
             }
             return false;
         }
+        /// <summary>
+        /// Serán distintos una universidad y una clase si no existe profesor que pueda darla en la Universidad.
+        /// </summary>
+        /// <param name="g"></param>
+        /// <param name="p"></param>
+        /// <returns></returns>
         public static Profesor operator !=(Universidad g, Universidad.EClases clase)
         {
             foreach (Profesor p in g.Profesores)
@@ -85,6 +113,12 @@ namespace ClasesInstanciables
             }
             return null;
         }
+        /// <summary>
+        /// Serán distintos una universidad y una clase si existe profesor que pueda darla en la Universidad.
+        /// </summary>
+        /// <param name="g"></param>
+        /// <param name="clase"></param>
+        /// <returns></returns>
         public static Profesor operator ==(Universidad g, Universidad.EClases clase)
         {
             foreach (Profesor p in g.Profesores)
@@ -94,6 +128,12 @@ namespace ClasesInstanciables
             }
             throw new SinProfesorException();
         }
+        /// <summary>
+        /// Sumará una clase a la universidad si existe profesor que pueda darla, posterior sumará alumnos a ella
+        /// </summary>
+        /// <param name="g"></param>
+        /// <param name="clase"></param>
+        /// <returns></returns>
         public static Universidad operator +(Universidad g, Universidad.EClases clase)
         {
             bool hayProfesor = false;
@@ -122,6 +162,13 @@ namespace ClasesInstanciables
 
             return g;
         }
+
+        /// <summary>
+        /// Sumará alumno si no existe el alumno en la universidad
+        /// </summary>
+        /// <param name="g"></param>
+        /// <param name="a"></param>
+        /// <returns></returns>
         public static Universidad operator +(Universidad g, Alumno a)
         {
             if (g == a)
@@ -130,17 +177,31 @@ namespace ClasesInstanciables
             g.Alumnos.Add(a);
             return g;
         }
+        /// <summary>
+        /// Sumará profesor si no existe el profesor en la universidad
+        /// </summary>
+        /// <param name="g"></param>
+        /// <param name="p"></param>
+        /// <returns></returns>
         public static Universidad operator +(Universidad g, Profesor p)
         {
             if (g != p)
                 g.Profesores.Add(p);
             return g;
         }
+        /// <summary>
+        /// Mostrará los datos de la universidad, junto a sus jornadas, profesores y alumnos.
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return Universidad.MostrarDatos(this);
         }
-
+        /// <summary>
+        /// Armará una cadena de string con los datos de la universidad,incluyendo a sus jornadas, profesores y alumnos.
+        /// </summary>
+        /// <param name="universidad"></param>
+        /// <returns></returns>
         private static string MostrarDatos(Universidad universidad)
         {
             StringBuilder sb = new StringBuilder();
@@ -149,12 +210,6 @@ namespace ClasesInstanciables
                 sb.AppendLine(j.ToString());
                 sb.AppendLine("<---------------------------------------------->");
             }
-
-            //foreach (Profesor p in universidad.Profesores)
-            //    sb.AppendLine(p.ToString());
-            //
-            //foreach (Alumno a in universidad.Alumnos)
-            //    sb.AppendLine(a.ToString());
 
             return sb.ToString();
         }

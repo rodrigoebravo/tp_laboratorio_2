@@ -9,6 +9,9 @@ namespace UnitTestUniversidad
     [TestClass]
     public class UnitTestUniversidad
     {
+        /// <summary>
+        /// Testeará si una clase no tiene profesor
+        /// </summary>
         [TestMethod]
         [ExpectedException(typeof(SinProfesorException))]
         public void TestSinProfesorException()
@@ -56,9 +59,10 @@ namespace UnitTestUniversidad
             {
                 throw e;
             }
-
-            //Assert.IsNotNull(alum, "ERROR");
         }
+        /// <summary>
+        /// Testeará si un dni es valido o no
+        /// </summary>
         [TestMethod]
         [ExpectedException(typeof(DniIvalidoException))]
         public void DniIvalidoExceptionException()
@@ -72,23 +76,29 @@ namespace UnitTestUniversidad
                 throw new DniIvalidoException(e);
             }
         }
+        /// <summary>
+        /// Testeará si los valores de un alumno son iguales (para estos valores los alumnos serán iguales)
+        /// </summary>
         [TestMethod]
         public void TestNumerico()
         {
             Alumno alumno1 = new Alumno(33, "Rodrigo", "Bravo", 35976287, Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion);
             Alumno alumno2 = new Alumno(31, "Luis", "Armendil", 35976287, Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion);
-            Assert.IsTrue(alumno1==alumno2);
+            Assert.IsTrue(alumno1 == alumno2);
         }
+        /// <summary>
+        /// Testeará los atributos de la clase Alumno
+        /// </summary>
         [TestMethod]
         public void TestValorNullEnAtributo()
         {
-            int id=33;
-            string nombre="";
-            string apellido="";
-            int dni=359762;
-            Persona.ENacionalidad nacionalidad= Persona.ENacionalidad.Argentino;
-            Universidad.EClases claseQueToma=Universidad.EClases.SPD;
-            Alumno alumno1 = new Alumno(id, nombre, apellido,dni,nacionalidad,claseQueToma);
+            int id = 33;
+            string nombre = "";
+            string apellido = "";
+            int dni = 359762;
+            Persona.ENacionalidad nacionalidad = Persona.ENacionalidad.Argentino;
+            Universidad.EClases claseQueToma = Universidad.EClases.SPD;
+            Alumno alumno1 = new Alumno(id, nombre, apellido, dni, nacionalidad, claseQueToma);
             Assert.IsNotNull(alumno1.Apellido);
             Assert.IsNotNull(alumno1.DNI);
             Assert.IsNotNull(alumno1.Legajo);

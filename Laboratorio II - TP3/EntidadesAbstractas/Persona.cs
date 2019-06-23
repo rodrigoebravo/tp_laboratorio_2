@@ -18,7 +18,12 @@ namespace EntidadesAbstractas
         public enum ENacionalidad { Argentino, Extranjero }
 
         public string StringToDNI { set { this.dni = ValidarDni(this.nacionalidad, value); } }
-
+        /// <summary>
+        /// Validará dni como string de acuerdo a la nacionalidad indicada
+        /// </summary>
+        /// <param name="nacionalidad"></param>
+        /// <param name="dato"></param>
+        /// <returns></returns>
         private int ValidarDni(ENacionalidad nacionalidad, string dato)
         {
             int dniAux;
@@ -27,7 +32,12 @@ namespace EntidadesAbstractas
             dniAux = ValidarDni(nacionalidad, dniAux);
             return dniAux;
         }
-
+        /// <summary>
+        /// Validará dni como int de acuerdo a la nacionalidad indicada
+        /// </summary>
+        /// <param name="nacionalidad"></param>
+        /// <param name="dato"></param>
+        /// <returns></returns>
         private int ValidarDni(ENacionalidad nacionalidad, int dato)
         {
             if (this.Nacionalidad == Persona.ENacionalidad.Argentino && (dato > 89999999 || dato < 1))
@@ -36,6 +46,12 @@ namespace EntidadesAbstractas
                 throw new NacionalidadInvalidaException("La nacionalidad no se condice con el número de DNI");
             return dato;
         }
+
+        /// <summary>
+        /// Validará nombre y apellido del dato proporcionado
+        /// </summary>
+        /// <param name="dato"></param>
+        /// <returns></returns>
         private string ValidarNombreApellido(string dato)
         {
             if (dato.Length < 30)
@@ -62,6 +78,10 @@ namespace EntidadesAbstractas
             this.StringToDNI = dni;
         }
 
+        /// <summary>
+        /// Armará una cadena de string con los datos de la persona
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
@@ -69,8 +89,6 @@ namespace EntidadesAbstractas
             sb.AppendLine();
             sb.AppendFormat("NACIONALIDAD: {0}", this.Nacionalidad);
             sb.AppendLine();
-            //sb.AppendFormat("Dni: {0}", this.DNI);
-            //sb.AppendLine();
             return sb.ToString();
         }
     }
