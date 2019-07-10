@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\Bravo.Rodrigo.2C.TP4\FrmPpal\bin\Debug\FrmPpal.exe.config
+C:\Users\usuario\source\repos\Bravo.Rodrigo.2C.TP4\FrmPpal\bin\Debug\FrmPpal.exe
+C:\Users\usuario\source\repos\Bravo.Rodrigo.2C.TP4\FrmPpal\bin\Debug\FrmPpal.pdb
+C:\Users\usuario\source\repos\Bravo.Rodrigo.2C.TP4\FrmPpal\obj\Debug\FrmPpal.csprojResolveAssemblyReference.cache
+C:\Users\usuario\source\repos\Bravo.Rodrigo.2C.TP4\FrmPpal\obj\Debug\FrmPpal.Form1.resources
+C:\Users\usuario\source\repos\Bravo.Rodrigo.2C.TP4\FrmPpal\obj\Debug\FrmPpal.Properties.Resources.resources
+C:\Users\usuario\source\repos\Bravo.Rodrigo.2C.TP4\FrmPpal\obj\Debug\FrmPpal.csproj.GenerateResource.Cache
+C:\Users\usuario\source\repos\Bravo.Rodrigo.2C.TP4\FrmPpal\obj\Debug\FrmPpal.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Bravo.Rodrigo.2C.TP4\FrmPpal\obj\Debug\FrmPpal.exe
+C:\Users\usuario\source\repos\Bravo.Rodrigo.2C.TP4\FrmPpal\obj\Debug\FrmPpal.pdb
+C:\Users\usuario\source\repos\Bravo.Rodrigo.2C.TP4\FrmPpal\bin\Debug\Entidades.dll
+C:\Users\usuario\source\repos\Bravo.Rodrigo.2C.TP4\FrmPpal\bin\Debug\Entidades.pdb
