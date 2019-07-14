@@ -58,13 +58,13 @@ namespace FrmPpal
                 switch (p.Estado)
                 {
                     case Paquete.EEstado.Ingresado:
-                        this.lstEstadoIngresado.Items.Add(p.MostrarDatos(p));
+                        this.lstEstadoIngresado.Items.Add(p);
                         break;
                     case Paquete.EEstado.EnViaje:
-                        this.lstEstadoEnViaje.Items.Add(p.MostrarDatos(p));
+                        this.lstEstadoEnViaje.Items.Add(p);
                         break;
                     case Paquete.EEstado.Entregado:
-                        this.lstEstadoEntregado.Items.Add(p.MostrarDatos(p));
+                        this.lstEstadoEntregado.Items.Add(p);
                         break;
                 }
             }
@@ -125,14 +125,18 @@ namespace FrmPpal
         {
             this.correo.FinEntregas();
         }
+
         /// <summary>
         /// Muestra la informacion del paquete seleccionado
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void mostrarMenuToolStrip_Click(object sender, EventArgs e)
+        private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
+            var prueba=(IMostrar<Paquete>)lstEstadoEntregado.SelectedItem;
+            this.MostrarInformacion<Paquete>(prueba);
         }
+
+
     }
 }

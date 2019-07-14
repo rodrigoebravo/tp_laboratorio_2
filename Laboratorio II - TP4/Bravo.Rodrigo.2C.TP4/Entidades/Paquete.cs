@@ -96,10 +96,8 @@ namespace Entidades
         /// <returns></returns>
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
-            sb.AppendFormat("{0} {1}",this.MostrarDatos(this), this.Estado.ToString());
-            sb.AppendLine();
-            return sb.ToString();
+            
+            return MostrarDatos(this);
         }
     }
 }

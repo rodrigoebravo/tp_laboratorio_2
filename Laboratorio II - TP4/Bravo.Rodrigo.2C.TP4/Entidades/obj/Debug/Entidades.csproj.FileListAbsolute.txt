@@ -10,3 +10,9 @@ C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP4\Entidades\obj\Debug\Entid
 C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP4\Entidades\obj\Debug\Entidades.dll
 C:\Users\usuario\Desktop\PruebaII\Bravo.Rodrigo.2C.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\tp_laboratorio_2\RecuperatoriosTP\Bravo.Rodrigo.2C.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\usuario\Desktop\tp_laboratorio_2\RecuperatoriosTP\Bravo.Rodrigo.2C.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\tp_laboratorio_2\RecuperatoriosTP\Bravo.Rodrigo.2C.TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\tp_laboratorio_2\RecuperatoriosTP\Bravo.Rodrigo.2C.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\tp_laboratorio_2\RecuperatoriosTP\Bravo.Rodrigo.2C.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\usuario\Desktop\tp_laboratorio_2\RecuperatoriosTP\Bravo.Rodrigo.2C.TP4\Entidades\obj\Debug\Entidades.pdb
